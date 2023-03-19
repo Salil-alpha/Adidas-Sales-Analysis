@@ -5,6 +5,7 @@ With respect to the current business state of the company, following are some of
 Problems:
 •	Adidas has an unhealthy reliance on the shoe market as a percentage of total revenues.
 •	Less visibility on the purchasing methods used by the consumers leading to a haywire in the marketing strategy.
+
 Opportunities:
 •	Due to its early success in the e-commerce sector, it has a wealth of prospects for sales and consumer involvement on digital platforms.
 •	The success and market dominance of Adidas depend on the company's ability to consistently produce innovative, high-quality goods.

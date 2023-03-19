@@ -49,15 +49,15 @@ Data Preparation:
 
 The data was already structured. No specific formatting or filtering was needed. Following are the examinations and the observations to which the data was subjected to:
 
-•	NULLs or NAs: Was not found.
+1.	NULLs or NAs: Was not found.
 
-•	Naming errors or different spellings for same attribute: Was not found.
+2.	Naming errors or different spellings for same attribute: Was not found.
 
-•	Blanks in the Dataset: Was not found.
+3.	Blanks in the Dataset: Was not found.
 
-•	Structural Errors: Was not found.
+4.	Structural Errors: Was not found.
 
-•	Irrelevant Observations: Was not found. This was tested by checking the data for data/information apart from sales sector.
+5.	Irrelevant Observations: Was not found. This was tested by checking the data for data/information apart from sales sector.
 
 
 Model Planning and Building: 
@@ -69,42 +69,42 @@ Units sold By Region, Quarters:
 
 Insights:
 
-•	Quarter 3 was the highest performing concerning the total units sold contributing 28% of the entire quantum, out of which 45% of covered by the South region.
+1.	Quarter 3 was the highest performing concerning the total units sold contributing 28% of the entire quantum, out of which 45% of covered by the South region.
 
-•	West and Southeast region did not go below 20% and 17% respectively.
+2.	West and Southeast region did not go below 20% and 17% respectively.
 
-•	In-store sales method gave the highest sales in terms of sale value at $356 million but the lowest in terms of the units sold at 689K units.
+3.	In-store sales method gave the highest sales in terms of sale value at $356 million but the lowest in terms of the units sold at 689K units.
 
-•	The online sales method fetched the highest units sold at 939K units.
+4.	The online sales method fetched the highest units sold at 939K units.
 
-•	PPU means pay per unit. It was seen that the South region had the lowest PPU at $38 whereas the Southeast and West had the highest, ranging between $49-$50.
+5.	PPU means pay per unit. It was seen that the South region had the lowest PPU at $38 whereas the Southeast and West had the highest, ranging between $49-$50.
 
-•	Northeast also had a decent number at $46 PPU.
+6.	Northeast also had a decent number at $46 PPU.
 
-•	West and Northeast is the region where the highest number of sales methods were used to purchase products, out of which the "Online" sales method was the most used.
+7.	West and Northeast is the region where the highest number of sales methods were used to purchase products, out of which the "Online" sales method was the most used.
 
-•	In Midwest, the "In-store" sales are higher than "Outlet", whereas in the South, "In-store" sales are negligible and the majority is contributed equally by the remaining two methods.
+8.	In Midwest, the "In-store" sales are higher than "Outlet", whereas in the South, "In-store" sales are negligible and the majority is contributed equally by the remaining two methods.
 
-•	South region outperformed other regions with an operating margin of 47%.
+9.	South region outperformed other regions with an operating margin of 47%.
 
-•	In terms of the marketplace, "Sports Direct" had an operating margin of 45% (approximately), the rest stayed constant between the range of 40% and 41%
+10.	In terms of the marketplace, "Sports Direct" had an operating margin of 45% (approximately), the rest stayed constant between the range of 40% and 41%
 
 
 Dashboard Visualization and Insights:
 
 Summative Insights Leading to the Problem-Solving of the Brand: The above dashboard consists of the major charts along with slicers (filters) and date filters. The above charts can help understand the end-to-end sales view of Adidas. Some of the key granularities include product types, regions, sales methods, marketplaces (or retailers as per the data), and dates or timelines. Some of the crucial insights that can be mapped from the above dashboard to solve or understand the problem/opportunity in the sales strategy of Adidas are:
 
-•	Column Chart (6th Visual) – This gives a view of the most demanded products that is men’s footwear as stated as the first problem/limitation for the company. Well, the graph shows other potential product categories like women apparels that can also be targeted, thereby diversifying the niche.
+1.	Column Chart (6th Visual) – This gives a view of the most demanded products that is men’s footwear as stated as the first problem/limitation for the company. Well, the graph shows other potential product categories like women apparels that can also be targeted, thereby diversifying the niche.
 
-•	Column Chart (3rd Visual) – The graphs shows a significant rise in the use of online methods for purchasing products, thereby solving the next problem of the brand. The brand can put its focus on promoting the most used sales methods by the customers by the regions they belong to.
+2.	Column Chart (3rd Visual) – The graphs shows a significant rise in the use of online methods for purchasing products, thereby solving the next problem of the brand. The brand can put its focus on promoting the most used sales methods by the customers by the regions they belong to.
 
-•	Bar Chart (1st Visual) – Understanding which marketplace or retailer is giving fewer sales can enable the firm to make decisions, to either cut those retailers or evaluate the problem behind them and work on that to boost sales.
+3.	Bar Chart (1st Visual) – Understanding which marketplace or retailer is giving fewer sales can enable the firm to make decisions, to either cut those retailers or evaluate the problem behind them and work on that to boost sales.
 
 
 Limitations in the Dashboard/Analysis:
 
 Some of the limitations in the above analysis are:
 
-•	Limited data: Well, the above analysis was performed on the sales data of Adidas firm available for the years 2020 and 2021.
+1.	Limited data: Well, the above analysis was performed on the sales data of Adidas firm available for the years 2020 and 2021.
 
-•	No customer data like age, gender, or occupation. This could have helped in understanding the targeted customers.
+2.	No customer data like age, gender, or occupation. This could have helped in understanding the targeted customers.
